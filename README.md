@@ -2,4 +2,4 @@
 
 ## Content:
 * _Data_ : fichier csv contenant la data pour le brief
-* _tau
+* _taux_desabonnement_ : notebook contenant les model IA
